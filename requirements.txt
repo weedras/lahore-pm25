@@ -1,0 +1,36 @@
+# Core data science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# ML models
+lightgbm>=4.0.0
+xgboost>=2.0.0
+
+# Interpretability
+shap>=0.43.0
+
+# ── Streamlit dashboard (NEW) ──────────────────────────────────────────────
+streamlit>=1.32.0
+streamlit-autorefresh>=1.0.1
+plotly>=5.17.0
+
+# Satellite data access
+earthengine-api>=0.1.370
+requests>=2.31.0
+cdsapi>=0.6.1
+
+# Geospatial
+geopandas>=0.14.0
+rasterio>=1.3.0
+shapely>=2.0.0
+
+# Visualization (for scripts)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
